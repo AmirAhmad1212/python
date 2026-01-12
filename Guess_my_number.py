@@ -12,9 +12,3 @@ def Guess(number):
         elif user_number < number:
             print("your number is smaller than mine")
 
-        else:
-            print("you Guessed it right")
-            break
-
-
-Guess(20)
