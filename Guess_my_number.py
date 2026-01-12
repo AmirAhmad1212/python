@@ -16,3 +16,4 @@ def Guess(number):
             print("you Guessed it right")
             break
 
+Guess(20)
